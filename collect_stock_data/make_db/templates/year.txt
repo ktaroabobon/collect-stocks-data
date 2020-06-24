@@ -1,0 +1,5 @@
+最後に収集の開始年と終了年を西暦で入力してください！
+（入力例： 2000-2020）
+
+Finally, enter the start and end year of the collection in the western calendar year!
+e.g) 2000-2020

@@ -1,0 +1,6 @@
+もし以下のようなエラーメッセージを受け取ったら下記のサイトにてご自身のGoogleChromeと同じバージョンのchromedriverをインストールしてください
+Error Message: This version of ChromeDriver only supports Chrome version xx
+ChromeDriver: http://chromedriver.chromium.org/downloads
+
+初期設定では、読み込んだデータはcsvファイルとして保存されます。
+csvファイルの他にもmysqlデータとして保存することも可能です。

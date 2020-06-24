@@ -1,0 +1,3 @@
+こんにちは！これから株データを集めていきます。
+
+Hello! We're going to be collecting stock data now.
